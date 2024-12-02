@@ -55,6 +55,11 @@ Data Visualization Tools: Utilize tools like Python libraries (Matplotlib, Seabo
 5. Data Visualization.
 
 
+## Insights and Recommendations
+[The Insights and Recommendations for Walmart Sales Analysis] (https://github.com/Sakthipavithran16/Walmart-Analysis/blob/main/Walmart_Insights.pdf)
+
+
+
 
 
 
