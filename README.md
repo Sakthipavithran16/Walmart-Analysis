@@ -14,25 +14,25 @@ By examining disparities in sales, customer preferences, and ratings, this study
 Download Dataset: Obtain the Walmart sales dataset from Kaggle using the appropriate API or direct download.
 
 ### Data Cleaning and Preparation
-Handle Missing Values: Identify and address missing values using techniques like imputation or removal.
-Remove Duplicates: Eliminate any duplicate records to ensure data integrity.
-Data Type Conversion: Convert data types to appropriate formats (e.g., date, numeric) for analysis.
-Data Validation: Verify data consistency and accuracy, including checking for outliers and anomalies.
+1. Handle Missing Values: Identify and address missing values using techniques like imputation or removal.
+2. Remove Duplicates: Eliminate any duplicate records to ensure data integrity.
+3. Data Type Conversion: Convert data types to appropriate formats (e.g., date, numeric) for analysis.
+4. Data Validation: Verify data consistency and accuracy, including checking for outliers and anomalies.
 
 ### Data Ingestion
-Database Connection: Establish a connection to a relational database (e.g., PostgreSQL, MySQL, SQL Server).
-Create Data Schema: Design a suitable data schema with tables and relationships to store the cleaned data.
-Data Loading: Load the cleaned data into the database using appropriate techniques (e.g., SQL queries, Python libraries like pandas and SQLAlchemy)
+1. Database Connection: Establish a connection to a relational database (e.g., PostgreSQL, MySQL, SQL Server).
+2. Create Data Schema: Design a suitable data schema with tables and relationships to store the cleaned data.
+3. Data Loading: Load the cleaned data into the database using appropriate techniques (e.g., SQL queries, Python libraries like pandas and SQLAlchemy)
 
 ### Exploratory Data Analysis (EDA)
-Statistical Summary: Calculate summary statistics (mean, median, mode, standard deviation, etc.) to understand data distribution.
-Data Visualization: Create visualizations (histograms, box plots, scatter plots, etc.) to identify trends, patterns, and outliers
+1. Statistical Summary: Calculate summary statistics (mean, median, mode, standard deviation, etc.) to understand data distribution.
+2. Data Visualization: Create visualizations (histograms, box plots, scatter plots, etc.) to identify trends, patterns, and outliers
 
 ### Data Analysis and Insights
 Sales Analysis:
-Analyze sales trends over time (daily, weekly, monthly, yearly).
-Identify top-selling products and categories.
-Analyze sales by region, store, or customer segment.
+1. Analyze sales trends over time (daily, weekly, monthly, yearly).
+2. Identify top-selling products and categories.
+3. Analyze sales by region, store, or customer segment.
 
 ### Data Visualization
 Data Visualization Tools: Utilize tools like Python libraries (Matplotlib, Seaborn, Plotly) or business intelligence tools (Tableau, Power BI) to create visualizations.
