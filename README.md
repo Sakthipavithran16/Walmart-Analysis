@@ -35,7 +35,7 @@ Sales Analysis:
 3. Analyze sales by region, store, or customer segment.
 
 ### Data Visualization
-Data Visualization Tools: Utilize tools like Python libraries (Matplotlib, Seaborn, Plotly) or business intelligence tools (Tableau, Power BI) to create visualizations.
+Data Visualization Tools: Utilize tools like Python libraries (Matplotlib, Seaborn, Plotly) to create visualizations.
 
 
 ## Tools used
