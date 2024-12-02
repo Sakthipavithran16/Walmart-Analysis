@@ -10,10 +10,10 @@ The analysis aims to identify key trends and insights from Walmart's sales data 
 By examining disparities in sales, customer preferences, and ratings, this study seeks to uncover actionable opportunities to enhance market strategies, optimize product offerings, and improve customer satisfaction for sustainable growth.
 
 ## Approach
-### Data Extraction:
+### Data Extraction
 Download Dataset: Obtain the Walmart sales dataset from Kaggle using the appropriate API or direct download.
 
-### Data Cleaning and Preparation: 
+### Data Cleaning and Preparation
 Handle Missing Values: Identify and address missing values using techniques like imputation or removal.
 Remove Duplicates: Eliminate any duplicate records to ensure data integrity.
 Data Type Conversion: Convert data types to appropriate formats (e.g., date, numeric) for analysis.
